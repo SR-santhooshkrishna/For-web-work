@@ -13,15 +13,15 @@ h1{
 h2{
 	color: blue;
 }
-#Instagram {
+#Instagram:hover {
 	background-color: lightpink;
 	border: black 3px solid;
 }
-#Facebook {
+#Facebook:hover {
  background-color: lightblue;
  border: black 3px solid;
 }
-#Youtube {
+#Youtube:hover {
  background-color: red;
  border: black 3px solid;
 }
