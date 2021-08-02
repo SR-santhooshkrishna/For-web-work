@@ -1,0 +1,27 @@
+body{
+font-family: arial;
+font-size: inherit;
+font-style: italic;
+font-family: serif;
+}
+h1{
+	color: darkred;
+	text-align: center;
+	border: 5px black;
+	background-color: beige;
+}
+h2{
+	color: blue;
+}
+#Instagram {
+	background-color: lightpink;
+	border: black 3px solid;
+}
+#Facebook {
+ background-color: lightblue;
+ border: black 3px solid;
+}
+#Youtube {
+ background-color: red;
+ border: black 3px solid;
+}
